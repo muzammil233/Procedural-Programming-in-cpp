@@ -7,7 +7,7 @@ int main()
 	cout<<"Enter a Number: ";
 	cin>>num;
 
-	if(num<0)
+	if( num < 0 )
 	{
 		cout<<num<<" is a negative number.";
 	}
